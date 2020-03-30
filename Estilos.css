@@ -1,0 +1,53 @@
+#m
+{
+	font: status-bar;
+	font-size: 60px;
+}
+#nombre
+{
+	font-size: 60px;
+
+}
+#info
+{
+	font-size: 40px;
+	border-bottom: solid;
+}
+.Encabezado
+{
+	font: status-bar;
+	background-color: #FBD4BF;
+	border-radius: 15px;
+}
+.Titulos
+{
+	color: #FF803B;
+	font-size: 40px;	
+	font-family: Bahnschrift;
+	text-align: unset;
+}
+.Parrafos
+{
+	font-size: 30px;
+	font-family: Bahnschrift;
+}
+a:link
+{
+	color: black;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: black;
+}
+
+a:active
+{
+	font-weight: bold;
+}
+
+a:hover
+{
+	font-weight: bold;
+}
